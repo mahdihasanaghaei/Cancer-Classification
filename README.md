@@ -1,2 +1,2 @@
-# AI-Projects
-Here , i'll upload my AI Projects
+# AI-Project
+Here , i uploaded my first real I Project
